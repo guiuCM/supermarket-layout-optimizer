@@ -1,7 +1,7 @@
     package domain.controller;
 
     import domain.*;
-    import Persistencia.ControladorPersistencia;
+    import persistence.ControladorPersistencia;
     import util.*;
 
     import java.io.BufferedReader;

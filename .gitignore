@@ -4,5 +4,6 @@ exe/
 build/
 *.class
 *.jar
+*.iml
 .DS_Store
 Thumbs.db
