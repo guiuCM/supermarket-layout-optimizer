@@ -26,3 +26,6 @@ You can easily compile and run the application using the provided `Makefile` sys
 * **Compile the project:**
   ```bash
   make all
+  
+---
+*Developed as part of the PROP coursework at UPC (Universitat Politècnica de Catalunya).*
